@@ -3,14 +3,14 @@
 
 title: Socspy
 url: "https://socspy.github.io"
-baseurl:
+baseurl: 
 google_analytics_key:
 disqus_shortname:
 newsletter_action:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Knowledge base template for Jekyll.
+description: Socspy website
 author:
   name: yoyo
   email: Socspy.dev@gmail.com

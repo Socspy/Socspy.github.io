@@ -1,7 +1,12 @@
 ---
 ---
-{% assign videos = site.posts | where: "type", "Video" | sort: "title" %}
 
-<h2>Videos <span class="count">({{ videos | size }})</span></h2>
+<section class="content">
+    <div class="wrapper">
+        {% assign videos = site.posts | where: "type", "Video" | sort: "title" %}
 
-{% include listings.html listings=videos %}
+        <h2>Videos <span class="count">({{ videos | size }})</span></h2>
+
+        {% include listings.html listings=videos %}
+    </div>
+</section>

@@ -1,3 +1,8 @@
+$header-image: "https://source.unsplash.com/random/900×700/?city,night";
+
+// Layout and grids
+$content-width: 1170px;
+
 // Breakpoints
 $tablet: "(min-width: 450px)";
 $mid-point: "(min-width: 750px)";
@@ -12,3 +17,9 @@ $header-color: #0c92f1;
 
 $link-color: #4A4A4A;
 $link-hover-color: #111;
+
+$image-overlay-color: #363b3d;
+$image-overlay-transparency: 0.8;
+
+// Shadows
+$drop-shadow: drop-shadow(0px 5px 10px rgba(#000, 0.1)) drop-shadow(0px 1px 1px rgba(#000, 0.2));
