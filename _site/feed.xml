@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-20T04:38:46+00:00</updated><id>http://localhost:4000/</id><title type="html">Socspy</title><subtitle>Socspy website</subtitle><author><name>yoyo</name><email>Socspy.dev@gmail.com</email></author><entry><title type="html">GPS Convert</title><link href="http://localhost:4000/projects/project-GPS-Convert/" rel="alternate" type="text/html" title="GPS Convert" /><published>2019-05-20T00:00:00+00:00</published><updated>2019-05-20T00:00:00+00:00</updated><id>http://localhost:4000/projects/project-GPS-Convert</id><content type="html" xml:base="http://localhost:4000/projects/project-GPS-Convert/">&lt;p&gt;This app is all about GPS coordinates conversion.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-11T09:07:48+00:00</updated><id>http://localhost:4000/</id><title type="html">Socspy</title><subtitle>Socspy website</subtitle><author><name>yoyo</name><email>Socspy.dev@gmail.com</email></author><entry><title type="html">Smart Batch Crop</title><link href="http://localhost:4000/projects/project-Smart-Batch-Crop/" rel="alternate" type="text/html" title="Smart Batch Crop" /><published>2019-08-11T00:00:00+00:00</published><updated>2019-08-11T00:00:00+00:00</updated><id>http://localhost:4000/projects/project-Smart-Batch-Crop</id><content type="html" xml:base="http://localhost:4000/projects/project-Smart-Batch-Crop/">&lt;p&gt;Smart Batch Crop allows to crop a number of images at a time. That’s all.&lt;/p&gt;
+
+&lt;p&gt;Features:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Crop and resize several images as once.&lt;/li&gt;
+  &lt;li&gt;Show preview images before going to next step.&lt;/li&gt;
+  &lt;li&gt;Create crop and resize templates.&lt;/li&gt;
+  &lt;li&gt;Output image format is selectable (PNG or jpeg)&lt;/li&gt;
+  &lt;li&gt;Embed metadata to the cropped photo from original one&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We want focus to key features to keep it as simply as possible. So, The lack is inevitable.
+Don’t hesitate to contact us, we really respect for your opinion.&lt;/p&gt;</content><author><name>yoyo</name><email>Socspy.dev@gmail.com</email></author><summary type="html">Smart Batch Crop allows to crop a number of images at a time. That’s all.</summary></entry><entry><title type="html">GPS Convert</title><link href="http://localhost:4000/projects/project-GPS-Convert/" rel="alternate" type="text/html" title="GPS Convert" /><published>2019-05-20T00:00:00+00:00</published><updated>2019-05-20T00:00:00+00:00</updated><id>http://localhost:4000/projects/project-GPS-Convert</id><content type="html" xml:base="http://localhost:4000/projects/project-GPS-Convert/">&lt;p&gt;This app is all about GPS coordinates conversion.&lt;/p&gt;
 
 &lt;p&gt;Find the location in maps with special coordinates system (WGS84, VN2000 …)
 You can also save the location to work late.&lt;/p&gt;
